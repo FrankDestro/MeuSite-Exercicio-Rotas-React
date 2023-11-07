@@ -1,0 +1,9 @@
+.title-subscription {
+    color: var(--color-font-primary);
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 28px;
+    margin-top: 20px;
+}
